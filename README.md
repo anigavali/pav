@@ -11,8 +11,8 @@
     <div class="overlay"></div>
     <div class="text">
         <h2>You are like my cutest teddy—always bringing me comfort, happiness, and love. 🧸💖 No matter what, I just want to hold onto you forever. </h2>
-        <h1>Happy Teddy Day, my love! </h1>
-        <p>I have something special for you:</p><br>
+        <h1>Happy Teddy Day, my paaavvvv ! </h1>
+        <p>Momo has something special for you:</p><br>
         <a href="new.html" class="btn">Click Here</a>
     </div>
 </body>
